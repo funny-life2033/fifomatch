@@ -1,0 +1,42 @@
+@media (max-width: 1440px) {
+    .fifo-match .fifo-sec {
+        margin-top: -18rem;
+    }
+}
+@media(max-width:1024px)
+{
+    footer form input {
+        height: 47px;
+    }
+    footer form button {
+        height: 36px;
+        padding: 0px 10px!important;
+    }
+}
+@media(max-width:991px)
+{
+    .fifo-match .fifo-sec {
+        margin-top: -11rem;
+    }
+}
+
+@media(max-width:767px)
+{
+    .fifo-match .fifo-back{
+        display: none;
+    }
+    footer figure {
+        max-width: 121px;
+    }
+    .container{
+        padding-right: 1rem;
+    padding-left: 1rem;
+    }
+}
+
+@media(max-width:575px)
+{
+    .fifo-match .fifo-sec {
+        margin-top: 0;
+    }
+}

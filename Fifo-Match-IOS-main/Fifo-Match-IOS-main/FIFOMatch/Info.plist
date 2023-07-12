@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>SF-Pro-Text-Black</key>
+	<string></string>
+	<key>SF-Pro-Text-BlackItalic</key>
+	<string></string>
+	<key>SF-Pro-Text-Bold</key>
+	<string></string>
+	<key>SF-Pro-Text-BoldItalic</key>
+	<string></string>
+	<key>SF-Pro-Text-Heavy</key>
+	<string></string>
+	<key>SF-Pro-Text-HeavyItalic</key>
+	<string></string>
+	<key>SF-Pro-Text-Light</key>
+	<string></string>
+	<key>SF-Pro-Text-LightItalic</key>
+	<string></string>
+	<key>SF-Pro-Text-Medium</key>
+	<string></string>
+	<key>SF-Pro-Text-MediumItalic</key>
+	<string></string>
+	<key>SF-Pro-Text-Regular</key>
+	<string></string>
+	<key>SF-Pro-Text-RegularItalic</key>
+	<string></string>
+	<key>SF-Pro-Text-SemiboldItalic</key>
+	<string></string>
+	<key>SF-Pro-Text-Thin</key>
+	<string></string>
+	<key>SF-Pro-Text-ThinItalic</key>
+	<string></string>
+	<key>SF-Pro-Text-Uitralightlatic</key>
+	<string></string>
+	<key>SF-Pro-Text-Ultralight</key>
+	<string></string>
+	<key>SF-Pro-Text-UltralightItalic</key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string></string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>sf_semibold</key>
+	<string></string>
+</dict>
+</plist>
